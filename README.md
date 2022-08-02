@@ -7,7 +7,7 @@
 
 ## About The Project
 
-<img src="./krediHesaplama.PNG" alt="">
+<img src="./krediHesapla.PNG" alt="">
 
 Javascript DOM manipulation applied on this project. An application that calculates loan interest rates has been created
 
